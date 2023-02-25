@@ -1,3 +1,7 @@
+# Hangman game
+
+Hangman is a word-guessing game where one player thinks of a word and the other player(s) attempt to guess it by suggesting letters. The word to be guessed is represented by a row of dashes, with each dash representing a letter in the word. The guessing player suggests one letter at a time, and if the letter is in the word, the other player(s) reveal all occurrences of that letter in the word. If the letter is not in the word, the other player(s) draw one part of a hangman figure for each incorrect guess. The guessing player(s) continue to suggest letters until either the word is guessed correctly or the hangman figure is completed, at which point the game is over.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
